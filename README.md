@@ -91,10 +91,10 @@ If you use Courtroom-FND in your research, please cite our work:
 
 
 ```bibtex
-@article{jwq2023courtroomfnd,
+@article{Anonymous2023courtroomfnd,
   title={Courtroom-FND: A Multi-Role Fake News Detection Method Based on Argument Switching-based Courtroom Debate},
-  author={TBD, To Be Determined},
-  journal={TBD, To Be Determined},
+  author={Anonymous},
+  journal={Journal of King Saud University Computer and Information Sciences},
   year={TBD, To Be Determined},
   publisher={TBD, To Be Determined}
 }
